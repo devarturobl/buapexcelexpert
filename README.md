@@ -23,11 +23,6 @@
 
 ---
 # Guía para Certificación Microsoft Excel Expert (MO-211)
-En los archivos README.md de GitHub, el Markdown estándar no permite cambiar el color del texto directamente (es una limitación de seguridad y diseño de la plataforma). Sin embargo, como eres ingeniero y buscas ese estilo de "consola", hay un truco profesional que puedes usar.
-
-Puedes usar etiquetas de matemáticas (LaTeX). GitHub renderiza LaTeX y permite el uso de comandos de color.
-
-Aquí tienes el código listo para copiar. He adaptado el diseño para que sea compatible con el bloque de color amarillo:
 
 Markdown
 # Instructor
